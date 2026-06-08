@@ -4,6 +4,15 @@
 
 A passionate software engineering student dedicated to building scalable, interactive, and user-centric web applications. Balancing robust full-stack development skills with a strong foundation in algorithmic problem-solving.
 
+<p align="left">
+  <a href="https://github.com/Shivam81137">
+    <img src="https://komarev.com/ghpvc/?username=Shivam81137&label=Profile%20Views&color=38B2AC&style=for-the-badge" alt="Profile views" />
+  </a>
+  <a href="https://github.com/Shivam81137?tab=followers">
+    <img src="https://img.shields.io/github/followers/Shivam81137?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  </a>
+</p>
+
 ---
 
 ### 🛠️ My Technical Armor
@@ -19,18 +28,43 @@ A passionate software engineering student dedicated to building scalable, intera
 
 ### 🌟 What I Focus On
 
-* **Full-Stack Engineering:** Architecture design, building fluid RESTful APIs, and responsive, interactive frontend user interfaces using the MERN ecosystem.
-* **Algorithmic Problem Solving:** Sharpening my logical thinking and optimizing data structures and algorithms code on a daily basis.
-* **System Design & Performance:** Crafting clean, maintainable code architectures with dynamic themes and fluid UI elements.
+- **Full-Stack Engineering:** Architecture design, building fluid RESTful APIs, and responsive, interactive frontend user interfaces using the MERN ecosystem.
+- **Algorithmic Problem Solving:** Sharpening my logical thinking and optimizing data structures and algorithms code on a daily basis.
+- **System Design & Performance:** Crafting clean, maintainable code architectures with dynamic themes and fluid UI elements.
 
 ---
 
+### 🚧 Recent Projects
+
+- [**Ship-Maritime-Monitoring**](https://github.com/Shivam81137/Ship-Maritime-Monitoring) — CNN + SAR based object detection experiments in Python.
+- [**movie-rs**](https://github.com/Shivam81137/movie-rs) — Python project focused on movie-related workflows and tooling.
+- [**INSECT-DETECTION-SYSTEM**](https://github.com/Shivam81137/INSECT-DETECTION-SYSTEM) — Detection-focused web project with practical experimentation.
+
+---
+
+### 🏆 Achievements & Growth
+
+- 📘 Consistently solving DSA problems to strengthen core CS fundamentals.
+- 🧠 Building projects that combine clean UI with practical backend architecture.
+- 🤝 Open to collaborating on meaningful web and AI-driven project ideas.
+
+---
 
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam81137&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Shivam's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam81137&layout=compact&theme=tokyonight&hide_progress=false" alt="Top Languages" height="180px"/>
+  <a href="https://github.com/Shivam81137">
+    <img src="https://github-readme-stats.vercel.app/api?username=Shivam81137&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Shivam's GitHub Stats" height="180px" />
+  </a>
+  <a href="https://github.com/Shivam81137?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam81137&layout=compact&theme=tokyonight&hide_progress=false&hide_border=true" alt="Top Languages" height="180px" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Shivam81137">
+    <img src="https://streak-stats.demolab.com?user=Shivam81137&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px" />
+  </a>
 </p>
 
 ---
@@ -42,9 +76,13 @@ A passionate software engineering student dedicated to building scalable, intera
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/Shivam_81137/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://www.instagram.com/shivam.in___/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
+### 🤝 Let's Build Something Great
+
+If you have an interesting idea or collaboration opportunity, feel free to connect — I’m always excited to learn and build.
