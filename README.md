@@ -4,15 +4,6 @@
 
 A passionate software engineering student dedicated to building scalable, interactive, and user-centric web applications. Balancing robust full-stack development skills with a strong foundation in algorithmic problem-solving.
 
-<p align="left">
-  <a href="https://github.com/Shivam81137">
-    <img src="https://komarev.com/ghpvc/?username=Shivam81137&label=Profile%20Views&color=38B2AC&style=for-the-badge" alt="Profile views" />
-  </a>
-  <a href="https://github.com/Shivam81137?tab=followers">
-    <img src="https://img.shields.io/github/followers/Shivam81137?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
-  </a>
-</p>
-
 ---
 
 ### 🛠️ My Technical Armor
