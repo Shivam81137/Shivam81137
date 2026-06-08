@@ -50,25 +50,6 @@ A passionate software engineering student dedicated to building scalable, intera
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <a href="https://github.com/Shivam81137">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shivam81137&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Shivam's GitHub Stats" height="180px" />
-  </a>
-  <a href="https://github.com/Shivam81137?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam81137&layout=compact&theme=tokyonight&hide_progress=false&hide_border=true" alt="Top Languages" height="180px" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/Shivam81137">
-    <img src="https://streak-stats.demolab.com?user=Shivam81137&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px" />
-  </a>
-</p>
-
----
-
 ### 📫 Connect With Me!
 
 <p align="left">
