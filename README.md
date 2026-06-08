@@ -1,6 +1,6 @@
 # Hey there, I'm Shivam Patel! 👋
 
-### 🚀 I'm a <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38B2AC&width=435&lines=Computer+Science+Student;Full-Stack+Web+Developer;Persistent+DSA+Problem+Solver" alt="Typing SVG" />
+### 🚀 I'm a <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38B2AC&width=435&lines=Computer+Science+Student;Full-Stack+Web+Developer;Persistent+DSA+Problem+Solver" alt="Typing SVG" style="vertical-align: middle; display: inline-block;" />
 
 A passionate software engineering student dedicated to building scalable, interactive, and user-centric web applications. Balancing robust full-stack development skills with a strong foundation in algorithmic problem-solving.
 
