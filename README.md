@@ -25,11 +25,12 @@ A passionate software engineering student dedicated to building scalable, intera
 
 ---
 
+
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam81137&show_icons=true&theme=tokyonight&count_private=true" alt="Shivam's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam81137&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivam81137&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Shivam's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam81137&layout=compact&theme=tokyonight&hide_progress=false" alt="Top Languages" height="180px"/>
 </p>
 
 ---
